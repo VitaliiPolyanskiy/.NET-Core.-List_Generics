@@ -25,7 +25,7 @@
         Console.WriteLine("\nIndexOf(\"Tyrannosaurus\", 3): {0}",
             dinosaurs.IndexOf("Tyrannosaurus", 3));
 
-        Console.WriteLine("\nIndexOf(\"Tyrannosaurus\", 2, 2): {0}",
-            dinosaurs.IndexOf("Tyrannosaurus", 2, 4));
+        Console.WriteLine("\nIndexOf(\"Tyrannosaurus\", 2, 3): {0}",
+            dinosaurs.IndexOf("Tyrannosaurus", 2, 3));
     }
 }
